@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "696617949622",
+    "project_id": "relaxmeditation-7e049",
+    "storage_bucket": "relaxmeditation-7e049.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696617949622:android:6e3e1889489d39cf088917",
+        "android_client_info": {
+          "package_name": "com.example.meditation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696617949622-a560euoalgh1f8ckqseas7o27h1the29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meditation",
+            "certificate_hash": "5951a90d0568bae452d73dc75feccad2e5517f18"
+          }
+        },
+        {
+          "client_id": "696617949622-brhqb160bu3ipvr7ff4pcgbuuofgo1rb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meditation",
+            "certificate_hash": "733e1b39979ad4b54b15e8e8fcc0e29674b9e9e4"
+          }
+        },
+        {
+          "client_id": "696617949622-cl246orbfplos1f9ktl3oer1cguqdd5p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meditation",
+            "certificate_hash": "1177b0fb38b862a764ee5ff8d43863cc718502db"
+          }
+        },
+        {
+          "client_id": "696617949622-53lg43565bg33h53kvkuvokn9bk54a9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjFN1WPt_4cE9n6mlq0PWkg16geSmtM5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696617949622-53lg43565bg33h53kvkuvokn9bk54a9u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "696617949622-pv5ji67kpt0r2bstcru46hf5huega2m7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.meditation"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696617949622:android:ac24b82e12b715ea088917",
+        "android_client_info": {
+          "package_name": "com.vocsy.meditation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696617949622-53lg43565bg33h53kvkuvokn9bk54a9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjFN1WPt_4cE9n6mlq0PWkg16geSmtM5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696617949622-53lg43565bg33h53kvkuvokn9bk54a9u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "696617949622-pv5ji67kpt0r2bstcru46hf5huega2m7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.meditation"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

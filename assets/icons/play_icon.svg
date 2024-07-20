@@ -1,0 +1,18 @@
+<svg width="35" height="36" viewBox="0 0 35 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 73">
+<g id="Group 64">
+<g id="Ellipse 4" filter="url(#filter0_b_104_692)">
+<circle cx="17.5" cy="18.3091" r="17.5" fill="white" fill-opacity="0.3"/>
+</g>
+</g>
+<path id="Vector" d="M13.4617 24.0707V13.8934C13.4617 13.1466 14.1779 12.6813 14.7482 13.0576L22.4603 18.1462C23.0262 18.5196 23.0262 19.4444 22.4603 19.8178L14.7482 24.9064C14.1779 25.2827 13.4617 24.8175 13.4617 24.0707Z" fill="white"/>
+</g>
+<defs>
+<filter id="filter0_b_104_692" x="-6" y="-5.19092" width="47" height="47" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="3"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_104_692"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_104_692" result="shape"/>
+</filter>
+</defs>
+</svg>
